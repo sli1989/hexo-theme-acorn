@@ -1,10 +1,13 @@
 # Header
 menu:
   首页: /
-  画廊: /gallery
-  案例: /stories
-  新闻: /archives
-  关于: /about
+  新闻动态: /archives
+  研究团队: /yjtd
+  研究方向: /yjfx
+  研究成果: /yjcg
+  项目支持: /xmzc
+  招生信息: /zsxx
+  # 关于: /about
 
 # Content
 excerpt_link: 阅读全文
@@ -18,7 +21,7 @@ beian:
 # Miscellaneous
 favicon: /images/favicon.ico
 webclip: /images/webclip
-brand:   /images/brand.svg
+brand:   /images/wit-title.png
 
 # Jumbotron video & Hero image & Swiper
 ## Jumbotron video
@@ -27,7 +30,7 @@ video:
   path: /images/movie/
 ## Hero image
 hero: 
-  image: /images/banner/banner.jpg
+  image: /images/banner.jpg
 ## Swiper
 ## https://github.com/nolimits4web/swiper
 swiper: 
@@ -39,11 +42,11 @@ toc: true
 
 # Slogan
 slogan: 
-  primary: 焕然一新
-  secondary: Acorn 是一颗适用于中小企业的 Hexo 主题
+  primary: 复杂系统与智能控制
+  secondary: 先进控制与智能自动化的理论、技术与应用
   archives: 汇聚热点话题 打造创新思路
-  pages: 运维更智能 部署更方便 应用更便捷
-  posts: 实践见真知既是最好的解释
+  pages: 复杂系统与智能控制实验室
+  posts: 实践见真知
 
 # Library
 libs:
